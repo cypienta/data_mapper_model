@@ -1,0 +1,5 @@
+pandas
+torch
+transformers
+scikit-learn
+tqdm
