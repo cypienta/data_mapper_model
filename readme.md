@@ -5,10 +5,10 @@ ___
 <a> <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103"></a>
 <a> <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 <a> <img src="https://img.shields.io/pypi/l/mia.svg"></a>
-<a href="https://https://github.com/ezzeldinadel/attack_flow_detector/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ezzeldinadel/attack_flow_detector"></a>
-<a href="https://github.com/ezzeldinadel/attack_flow_detector/graphs/contributors" alt="Contributors"> <img src="https://img.shields.io/github/contributors/ezzeldinadel/attack_flow_detector" /></a>
-<a href="https://github.com/ezzeldinadel/attack_flow_detector/graphs/stars" alt="Stars"><img src="https://img.shields.io/github/stars/ezzeldinadel/attack_flow_detector" /></a>
-<a href="https://github.com//ezzeldinadel/attack_flow_detector"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ezzeldinadel/attack_flow_detector"></a>
+<a href="https://https://github.com/cypienta/data_mapper_model/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/cypienta/data_mapper_model"></a>
+<a href="https://github.com/cypienta/data_mapper_model/graphs/contributors" alt="Contributors"> <img src="https://img.shields.io/github/contributors/ezzeldinadel/attack_flow_detector" /></a>
+<a href="https://github.com/cypienta/data_mapper_model/graphs/stars" alt="Stars"><img src="https://img.shields.io/github/stars/cypienta/data_mapper_model" /></a>
+<a href="https://github.com/cypienta/data_mapper_model"><img alt="GitHub forks" src="https://img.shields.io/github/forks/cypienta/data_mapper_model"></a>
 
 <br>
  <p align="center">
